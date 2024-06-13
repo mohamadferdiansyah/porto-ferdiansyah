@@ -1,0 +1,30 @@
+*{
+    font-family: 'work sans';
+    font-weight: 400;
+}
+
+main{
+    background-color: whitesmoke;
+}
+
+nav{
+    background-color: #f8f9fa;
+}
+
+.contentContainer{
+    background-color: #f8f9fa;
+}
+
+.induk{
+    height: 100vh;
+}
+
+.boxShadow{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+
+.scrollspy-example {
+    position: relative;
+    height: 75vh;
+    overflow-y: scroll;
+}

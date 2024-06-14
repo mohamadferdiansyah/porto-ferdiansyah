@@ -20,10 +20,10 @@
                 <div class="row d-flex flex-row column-gap-4 justify-content-center">
                     <div class="col col-sm-auto p-0 text-center">
                         <nav class="nav flex-column d-flex justify-content-center row-gap-5 rounded h-100 p-2 boxShadow ">
-                            <a class="btn btn-light fw-medium" style="--bs-btn-padding-y: .25rem; --bs-btn-padding-x: .25rem; --bs-btn-font-size: 1rem; width: 97%; background-color: --bs-light; color:var(--bs-link-color);" aria-current="page" href="/"><i class="bi bi-house"></i><br>Home</a>
-                            <a class="btn btn-light fw-medium" style="--bs-btn-padding-y: .25rem; --bs-btn-padding-x: .25rem; --bs-btn-font-size: 1rem; width: 97%; background-color: --bs-light; color:var(--bs-link-color);" aria-current="page" href="/about"><i class="bi bi-person-circle"></i><br>About</a>
-                            <a class="btn btn-light fw-medium" style="--bs-btn-padding-y: .25rem; --bs-btn-padding-x: .25rem; --bs-btn-font-size: 1rem; width: 97%; background-color: --bs-light; color:var(--bs-link-color);"  aria-current="page" href="/project"><i class="bi bi-file-earmark-code"></i><br>Project</a>
-                            <a class="btn btn-light fw-medium" style="--bs-btn-padding-y: .25rem; --bs-btn-padding-x: .25rem; --bs-btn-font-size: 1rem; width: 97%; background-color: --bs-light; color:var(--bs-link-color);" aria-current="page" href="/contact"><i class="bi bi-telephone"></i><br>Contact</a>
+                            <a class="btn btn-light fw-medium" style="--bs-btn-padding-y: .25rem; --bs-btn-padding-x: .25rem; --bs-btn-font-size: 1rem; width: 97%; background-color: --bs-light; color:var(--bs-link-color);" aria-current="page" href="/"><i class="bi bi-house fs-4"></i><br>Home</a>
+                            <a class="btn btn-light fw-medium" style="--bs-btn-padding-y: .25rem; --bs-btn-padding-x: .25rem; --bs-btn-font-size: 1rem; width: 97%; background-color: --bs-light; color:var(--bs-link-color);" aria-current="page" href="/about"><i class="bi bi-person-circle fs-4"></i><br>About</a>
+                            <a class="btn btn-light fw-medium" style="--bs-btn-padding-y: .25rem; --bs-btn-padding-x: .25rem; --bs-btn-font-size: 1rem; width: 97%; background-color: --bs-light; color:var(--bs-link-color);"  aria-current="page" href="/project"><i class="bi bi-file-earmark-code fs-4"></i><br>Project</a>
+                            <a class="btn btn-light fw-medium" style="--bs-btn-padding-y: .25rem; --bs-btn-padding-x: .25rem; --bs-btn-font-size: 1rem; width: 97%; background-color: --bs-light; color:var(--bs-link-color);" aria-current="page" href="/contact"><i class="bi bi-telephone fs-4"></i><br>Contact</a>
                         </nav>
                     </div>
                     <div class="col p-0">

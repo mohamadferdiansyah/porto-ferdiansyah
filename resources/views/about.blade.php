@@ -10,14 +10,17 @@
         <div class="row">
             <div class="col-sm-3">
                 <p class="fs-2 fw-semibold">1</p>
+                <hr class="border border-1 opacity-50 rounded w-50 m-0">
                 <p class="fs-5 fw-medium opacity-75">Year Of Experience</p>
             </div>
             <div class="col-sm-3">
                 <p class="fs-2 fw-semibold">5+</p>
+                <hr class="border border-1 opacity-50 rounded w-50 m-0">
                 <a class="link-offset-2 link-underline link-underline-opacity-0 fs-5 fw-medium opacity-75" href="/project">Project <i class="bi bi-arrow-right"></i></a>
             </div>
             <div class="col-sm-3">
                 <p class="fs-2 fw-semibold">2</p>
+                <hr class="border border-1 opacity-50 rounded w-50 m-0">
                 <a type="button" class="link-offset-2 link-underline link-underline-opacity-0 fs-5 fw-medium opacity-75" data-bs-toggle="modal" data-bs-target="#exampleModal">
                     Certificates <i class="bi bi-arrow-right"></i>
                 </a>
@@ -54,7 +57,7 @@
         </div>
     </div>
     <hr class="border border-2 opacity-50 rounded w-100">
-    <h1 class="display-6">Skills</h1>
+    <h1 class="display-6 py-1 fw-medium">Skills</h1>
     <div class="accordion" id="accordionExample">
         <div class="accordion-item">
             <h2 class="accordion-header">

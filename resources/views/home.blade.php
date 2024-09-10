@@ -7,7 +7,7 @@
     <p>Wanna See More <a class="link-offset-2 link-underline link-underline-opacity-0" href="/about">About Me?</a></p>
     <hr class="border border-2 opacity-50 rounded w-75">
     <h1 class="display-6 fw-medium">Skills</h1>
-    <div class="btn-group btn-group-lg" role="group" aria-label="Basic outlined example">
+    <div class="btn-group btn-group-lg skillGroup" role="group" aria-label="Basic outlined example">
         <button type="button" class="btn btn-outline-primary p-4 px-5" data-bs-container="body" data-bs-trigger="hover focus" data-bs-toggle="popover" data-bs-placement="top" data-bs-content="HTML"><img src="../assets/img/html.png" alt="HTML" style="width: 52px;"></button>
         <button type="button" class="btn btn-outline-primary p-4 px-5" data-bs-container="body" data-bs-trigger="hover focus" data-bs-toggle="popover" data-bs-placement="top" data-bs-content="CSS"><img src="../assets/img/css.png" alt="CSS" style="width: 52px;"></button>
         <button type="button" class="btn btn-outline-primary p-4 px-5" data-bs-container="body" data-bs-trigger="hover focus" data-bs-toggle="popover" data-bs-placement="top" data-bs-content="JS"><img src="../assets/img/js.png" alt="JS" style="width: 52px;"></button>
